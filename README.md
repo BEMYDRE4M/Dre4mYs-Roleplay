@@ -1,4 +1,4 @@
-# Dre4mY's Roleplay
+# Redfield Roleplay
 
 A simple (and bad) roleplay gamemode developed in 2016.   
 Development has been discontinued; this upload serves mainly for archiving.
